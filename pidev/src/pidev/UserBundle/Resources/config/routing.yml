@@ -1,0 +1,7 @@
+home:
+    path:     /home
+    defaults: { _controller: pidevUserBundle:Default:home}
+
+contact:
+    path:     /contact
+    defaults: { _controller: pidevUserBundle:Default:contact}
